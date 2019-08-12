@@ -2,6 +2,9 @@
 
 On this page you can find my programming portfolio starting from my first JAVA projects up to the latest creations.
 
+### JAVA Head First:
+  1. Chapter - ["Szybki skok na głęboką wodę"](JHF-chapter1.md)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
