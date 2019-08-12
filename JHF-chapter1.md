@@ -15,7 +15,7 @@ class MojaPierwszaAplikacja
 
 ***
 
-Ćwiczenia 1A:
+Ćwiczenie 1A:
 ```java
 class Cwiczenie1A {
 	public static void main (String[] args) {
@@ -30,7 +30,7 @@ class Cwiczenie1A {
 }
 ```
 ***
-Ćwiczenia 1B:
+Ćwiczenie 1B:
 ```java
 class Cwiczenie1B {
 	public static void main (String[] args) {
