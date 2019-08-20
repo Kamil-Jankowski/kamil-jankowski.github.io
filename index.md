@@ -2,10 +2,10 @@
 
 On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
 
-### ["Encryption-Decryption"](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository)
+### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository)
 
 ### JetBrains Academy (wiki pages):
-  ["TBD"]()
+  [TBD]()
 
 ### Head First JAVA (wiki pages):
   01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-1.-Chapter)
@@ -28,4 +28,4 @@ On this page you can find my programming portfolio starting from my latest creat
   18. Chapter - ["Remote Deployment with RMI: Distributed Computing"]()
 
 ### Pluralsight JAVA courses (wiki pages):
-  01. TBD - ["TBD"]()
+  01. TBD - [TBD]()
