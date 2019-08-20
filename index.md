@@ -1,40 +1,31 @@
 ## Welcome to Kamil Jankowski GitHub Page
 
-On this page you can find my programming portfolio starting from my first JAVA projects up to the latest creations.
+On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
 
-### JAVA Head First (wiki pages):
-  1. Chapter - ["Szybki skok na głęboką wodę"](https://github.com/Kamil-Jankowski/kamil-jankowski.github.io/wiki/JAVA-Head-First:-1.-Chapter)
+### ["Encryption-Decryption"](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### JetBrains Academy (wiki pages):
+  01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"]()
 
-### Markdown
+### Head First JAVA (wiki pages):
+  01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-1.-Chapter)
+  02. Chapter - ["Classes and Objects: A Trip to Objectville"]()
+  03. Chapter - ["Primitives and References: Know Your Variables"]()
+  04. Chapter - ["Methods Use Instance Variables: How Objects Behave"]()
+  05. Chapter - ["Writing a Program: Extra-Strength Methods"]()
+  06. Chapter - ["Get to Know the Java API: Using the Java Library"]()
+  07. Chapter - ["Inheritance and Polymorphism: Better Living in Objectville"]()
+  08. Chapter - ["Interfaces and Abstract Classes: Serious Polymorphism"]()
+  09. Chapter - ["Constructors and Garbage Collection: Life and Death of an Object"]()
+  10. Chapter - ["Numbers and Statics: Numbers Matter"]()
+  11. Chapter - ["Exception Handling: Risky Behavior"]()
+  12. Chapter - ["Getting GUI: A Very Graphic Story"]()
+  13. Chapter - ["Using Swing: Work on Your Swing"]()
+  14. Chapter - ["Serialization and File I/O: Saving Objects"]()
+  15. Chapter - ["Networking and Threads: Make a Connection"]()
+  16. Chapter - ["Collections and Generics: Data structures"]()
+  17. Chapter - ["Package, Jars and Deployment: Release Your Code"]()
+  18. Chapter - ["Remote Deployment with RMI: Distributed Computing"]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KamilJ90/KamilJ90.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Pluralsight JAVA courses (wiki pages):
+  01. TBD - ["TBD"]()
