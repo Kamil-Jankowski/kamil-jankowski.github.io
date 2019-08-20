@@ -8,7 +8,7 @@ On this page you can find my programming portfolio starting from my latest creat
   [TBD]()
 
 ### Head First JAVA (wiki pages):
-  01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-1.-Chapter)
+  01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-01.-Chapter)
   02. Chapter - ["Classes and Objects: A Trip to Objectville"]()
   03. Chapter - ["Primitives and References: Know Your Variables"]()
   04. Chapter - ["Methods Use Instance Variables: How Objects Behave"]()
