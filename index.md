@@ -7,6 +7,7 @@ On this page you can find my programming portfolio starting from my latest creat
 ### JetBrains Academy (wiki pages - _in progress_):
 * [The while and do-while loops](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-while-&-do-while)
 * [Branching statements](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Branching-statements)
+* [Processing strings](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings)
 
 ### Head First JAVA (wiki pages):
   01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-01.-Chapter)
