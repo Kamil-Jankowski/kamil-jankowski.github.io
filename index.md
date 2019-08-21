@@ -2,7 +2,7 @@
 
 On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
 
-### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository)
+### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _work in progress_)
 
 ### JetBrains Academy (wiki pages):
   _wiki pages for this category will be available soon_
