@@ -2,9 +2,9 @@
 
 On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
 
-### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository)
+### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _in progress_)
 
-### JetBrains Academy (wiki pages):
+### JetBrains Academy (wiki pages - _in progress_):
 * [The while and do-while loops](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-while-&-do-while)
 * [Branching statements](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Branching-statements)
 
