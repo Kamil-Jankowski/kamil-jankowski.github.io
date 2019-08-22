@@ -17,5 +17,5 @@
  <br>
  <br>
 
-### [Pluralsight JAVA courses (wiki pages)](pluralsight.md)
+### [Pluralsight JAVA path (wiki pages)](pluralsight.md)
   <a href="pluralsight.md"><img src="PS_logo_F-11.png" alt="course_icon" width="250"/></a>
