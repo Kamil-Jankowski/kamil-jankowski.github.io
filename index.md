@@ -1,31 +1,17 @@
-## Welcome to Kamil Jankowski GitHub Page
+## On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
 
-On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
+> Projects
+### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _ongoing_)
 
-### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _work in progress_)
+#
+> Learning paths
+### [JetBrains Academy - JAVA (wiki pages)](jet_brains.md) - _ongoing_:
+ <img src="academy.png" alt="book_cover" width="250"/>
+ <br>
+ 
+### [Head First JAVA (wiki pages)](head_first_java.md)
+ <img src="819TQgUGNsL.jpg" alt="book_cover" width="250"/>
+ <br>
 
-### JetBrains Academy (wiki pages):
-  _wiki pages for this category will be available soon_
-
-### Head First JAVA (wiki pages):
-  01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-01.-Chapter)
-  02. Chapter - "Classes and Objects: A Trip to Objectville"
-  03. Chapter - "Primitives and References: Know Your Variables"
-  04. Chapter - "Methods Use Instance Variables: How Objects Behave"
-  05. Chapter - "Writing a Program: Extra-Strength Methods"
-  06. Chapter - "Get to Know the Java API: Using the Java Library"
-  07. Chapter - "Inheritance and Polymorphism: Better Living in Objectville"
-  08. Chapter - "Interfaces and Abstract Classes: Serious Polymorphism"
-  09. Chapter - "Constructors and Garbage Collection: Life and Death of an Object"
-  10. Chapter - "Numbers and Statics: Numbers Matter"
-  11. Chapter - "Exception Handling: Risky Behavior"
-  12. Chapter - "Getting GUI: A Very Graphic Story"
-  13. Chapter - "Using Swing: Work on Your Swing"
-  14. Chapter - "Serialization and File I/O: Saving Objects"
-  15. Chapter - "Networking and Threads: Make a Connection"
-  16. Chapter - "Collections and Generics: Data structures"
-  17. Chapter - "Package, Jars and Deployment: Release Your Code"
-  18. Chapter - "Remote Deployment with RMI: Distributed Computing"
-
-### Pluralsight JAVA courses (wiki pages):
-  _wiki pages for this category will be available soon_
+### [Pluralsight JAVA path (wiki pages)](pluralsight.md)
+  <img src="PS_logo_F-11.png" alt="course_icon" width="250"/>
