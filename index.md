@@ -3,7 +3,7 @@
 
 > Projects
 
-### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _ongoing_)
+### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository) - _ongoing_
 <br>
 
 <hr>
