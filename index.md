@@ -1,11 +1,13 @@
 ## On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
 
 > Projects
+
 ### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _ongoing_)
 
 #
 
 > Learning paths
+
 ### [JetBrains Academy - JAVA (wiki pages)](jet_brains.md) - _ongoing_:
  <img src="academy.png" alt="book_cover" width="250"/>
  <br>
