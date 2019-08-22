@@ -10,7 +10,7 @@
 
 > Learning paths
 
-### [JetBrains Academy - JAVA](jet_brains.md) - _ongoing_:
+### [JetBrains Academy: JAVA](jet_brains.md) - _ongoing_:
  <img src="pictures/academy.png" alt="book_cover" width="250"/>
  <br>
  
