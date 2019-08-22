@@ -1,3 +1,5 @@
+[<img.png>](https://kamil-jankowski.github.io/) Return to homepage
+#
 ### Head First JAVA (wiki pages):
   01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-01.-Chapter)
   02. Chapter - ["Classes and Objects: A Trip to Objectville"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-02.-Chapter)
