@@ -1,3 +1,5 @@
+<a href="index.md"><img src="button-24808_960_720.png" alt="back_icon" width="25"/></a>
+<br>
 ### JetBrains Academy (wiki pages - _ongoing_):
 > Ordered from latest to oldest
 * [Processing strings](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings)
