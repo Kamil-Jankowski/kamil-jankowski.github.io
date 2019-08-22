@@ -1,8 +1,8 @@
-<a href="https://kamil-jankowski.github.io/"><img src="button-24808_960_720.png" alt="back_icon" width="25"/></a>
+<a href="https://kamil-jankowski.github.io/"><img src="pictures/button.png" alt="back_icon" width="25"/></a>
 <hr>
 
-### JetBrains Academy (wiki pages) - _ongoing_:
-> Ordered from latest to oldest.
+### JetBrains Academy - _ongoing_:
+> wiki pages - ordered from latest to oldest.
 
 * [Processing strings](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings)
 * [Branching statements](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Branching-statements)
