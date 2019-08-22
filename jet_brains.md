@@ -1,7 +1,7 @@
 <a href="https://kamil-jankowski.github.io/"><img src="pictures/button.png" alt="back_icon" width="25"/></a>
 <hr>
 
-### JetBrains Academy - _ongoing_:
+### JetBrains Academy: JAVA - _ongoing_:
 > wiki pages - ordered from latest to oldest.
 
 * [Processing strings](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings)
