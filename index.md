@@ -10,8 +10,10 @@
 * [The for loop](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-The-for-loop)
 * [Conditional statement](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Conditional-statement)
 
-### Head First JAVA (wiki pages):
+#
+> Previous learning paths
+### [Head First JAVA (wiki pages)]()
   
 
-### Pluralsight JAVA courses (wiki pages):
+### [Pluralsight JAVA courses (wiki pages)]()
   
