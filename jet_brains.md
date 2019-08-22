@@ -1,4 +1,4 @@
-### JetBrains Academy (wiki pages - _in progress_):
+### JetBrains Academy (wiki pages - _ongoing_):
 > Ordered from latest to oldest
 * [Processing strings](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings)
 * [Branching statements](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Branching-statements)
