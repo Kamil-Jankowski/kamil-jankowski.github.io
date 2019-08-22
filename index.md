@@ -4,7 +4,7 @@
 
 ### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _ongoing_)
 
-#
+<hr>
 
 > Learning paths
 
