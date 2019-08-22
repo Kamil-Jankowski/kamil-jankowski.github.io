@@ -10,13 +10,13 @@
 
 > Learning paths
 
-### [JetBrains Academy - JAVA (wiki pages)](jet_brains.md) - _ongoing_:
- <img src="academy.png" alt="book_cover" width="250"/>
+### [JetBrains Academy - JAVA](jet_brains.md) - _ongoing_:
+ <img src="pictures/academy.png" alt="book_cover" width="250"/>
  <br>
  
-### [Head First JAVA (wiki pages)](head_first_java.md)
- <img src="819TQgUGNsL.jpg" alt="book_cover" width="250"/>
+### [Head First JAVA](head_first_java.md)
+ <img src="pictures/Head_first_JAVA.jpg" alt="book_cover" width="250"/>
  <br>
 
-### [Pluralsight JAVA path (certificates)](pluralsight.md)
-  <img src="PS_logo_F-11.png" alt="course_icon" width="250"/>
+### [Pluralsight JAVA path](pluralsight.md)
+  <img src="pictures/Pluralsight.png" alt="course_icon" width="250"/>
