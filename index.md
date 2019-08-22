@@ -12,8 +12,8 @@
 
 #
 > Previous learning paths
-### [Head First JAVA (wiki pages)](https://kamil-jankowski.github.io/head_first_java.md)
+### [Head First JAVA (wiki pages)](head_first_java.md)
   
 
-### [Pluralsight JAVA courses (wiki pages)](https://kamil-jankowski.github.io/pluralsight.md)
+### [Pluralsight JAVA courses (wiki pages)](pluralsight.md)
   
