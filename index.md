@@ -18,5 +18,5 @@
  <img src="819TQgUGNsL.jpg" alt="book_cover" width="250"/>
  <br>
 
-### [Pluralsight JAVA path (wiki pages)](pluralsight.md)
+### [Pluralsight JAVA path (certificates)](pluralsight.md)
   <img src="PS_logo_F-11.png" alt="course_icon" width="250"/>
