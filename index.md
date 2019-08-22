@@ -1,6 +1,4 @@
-## Welcome to Kamil Jankowski GitHub Page
-
-On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
+## On this page you can find my programming portfolio starting from my latest creations and going back till my very first applications.
 
 ### [Encryption-Decryption](https://github.com/Kamil-Jankowski/Encryption-Decryption) (project repository - _in progress_)
 
