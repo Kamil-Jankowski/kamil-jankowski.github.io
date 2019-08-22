@@ -9,11 +9,9 @@
  <img src="academy.png" alt="book_cover" width="250"/>
  <br>
  <br>
- <br>
  
 ### [Head First JAVA (wiki pages)](head_first_java.md)
  <img src="819TQgUGNsL.jpg" alt="book_cover" width="250"/>
- <br>
  <br>
  <br>
 
