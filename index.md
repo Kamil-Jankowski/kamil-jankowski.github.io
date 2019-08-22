@@ -8,11 +8,9 @@
 ### [JetBrains Academy - JAVA (wiki pages)](jet_brains.md) - _ongoing_:
  <img src="academy.png" alt="book_cover" width="250"/>
  <br>
- <br>
  
 ### [Head First JAVA (wiki pages)](head_first_java.md)
  <img src="819TQgUGNsL.jpg" alt="book_cover" width="250"/>
- <br>
  <br>
 
 ### [Pluralsight JAVA path (wiki pages)](pluralsight.md)
