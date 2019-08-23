@@ -4,7 +4,7 @@
 ### Pluralsight JAVA path:
 > Certificates
 
-* Modern Java - The Big Picture
+* <a href="certificates/Modern Java - The Big Picture.pdf" target="_blank">Modern Java - The Big Picture</a>
 * Java Fundamentals - The Java Language
 * Java Fundamentals - The Core Platform
 * What's New in Java 12
