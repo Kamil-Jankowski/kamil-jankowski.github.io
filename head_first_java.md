@@ -4,7 +4,7 @@
 ### Head First JAVA:
 > Wiki pages
 
-  01. Chapter - ["Dive in A Quick Dip: Breaking the Surface"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-01.-Chapter)
+  01. Chapter - <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-01.-Chapter" target="_blank">"Dive in A Quick Dip: Breaking the Surface"</a>
   02. Chapter - ["Classes and Objects: A Trip to Objectville"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-02.-Chapter)
   03. Chapter - ["Primitives and References: Know Your Variables"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-03.-Chapter)
   04. Chapter - ["Methods Use Instance Variables: How Objects Behave"](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-04.-Chapter)
