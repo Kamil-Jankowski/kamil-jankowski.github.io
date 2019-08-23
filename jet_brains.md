@@ -4,8 +4,8 @@
 ### JetBrains Academy: JAVA - _ongoing_:
 > wiki pages - ordered from latest to oldest.
 
-* [Processing strings](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings)
-* [Branching statements](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Branching-statements)
-* [The while and do-while loops](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-while-&-do-while)
-* [The for loop](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-The-for-loop)
-* [Conditional statement](https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Conditional-statement)
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings" target="_blank">Processing strings</a>
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Branching-statements" target="_blank">Branching statements</a>
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-while-&-do-while" target="_blank">The while and do-while loops</a>
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-The-for-loop" target="_blank">The for loop</a>
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Conditional-statement" target="_blank">Conditional statement</a>
