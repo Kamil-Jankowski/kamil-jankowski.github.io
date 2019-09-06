@@ -4,6 +4,7 @@
 ### JetBrains Academy: JAVA - _ongoing_:
 > wiki pages - ordered from latest to oldest.
 
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Arrays-as-parameters" target="_blank">Arrays as parameters</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Defining-methods" target="_blank">Defining methods</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings" target="_blank">Processing strings</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Branching-statements" target="_blank">Branching statements</a>
