@@ -4,6 +4,7 @@
 ### JetBrains Academy: JAVA - _ongoing_:
 > wiki pages - ordered from latest to oldest.
 
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Inheritance" target="_blank">Inheritance</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Instance-methods" target="_blank">Instance methods</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Command-line-arguments" target="_blank">Command-line arguments</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Arrays-as-parameters" target="_blank">Arrays as parameters</a>
