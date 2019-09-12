@@ -2,7 +2,7 @@
 <hr>
 
 ### Head First JAVA:
-> Wiki pages
+> wiki pages
 
   01. Chapter - <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-01.-Chapter" target="_blank">"Dive in A Quick Dip: Breaking the Surface"</a>
   02. Chapter - <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/Head-First-JAVA:-02.-Chapter" target="_blank">"Classes and Objects: A Trip to Objectville"</a>
