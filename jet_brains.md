@@ -13,5 +13,6 @@
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Inheritance" target="_blank">Inheritance</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Instance-methods" target="_blank">Instance methods</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings" target="_blank">Processing strings</a>
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Reading-files" target="_blank">Reading files</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-The-for-loop" target="_blank">The for loop</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-while-&-do-while" target="_blank">The while and do-while loops</a>
