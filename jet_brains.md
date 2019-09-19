@@ -10,6 +10,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Conditional-statement" target="_blank">Conditional statement</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Defining-methods" target="_blank">Defining methods</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Exception-handling" target="_blank">Exception handling</a>
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Hiding-and-overriding" target="_blank">Hiding and overriding</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Inheritance" target="_blank">Inheritance</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Instance-methods" target="_blank">Instance methods</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Multiple-constructors" target="_blank">Multiple constructors</a>
