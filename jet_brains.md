@@ -14,6 +14,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Inheritance" target="_blank">Inheritance</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Instance-methods" target="_blank">Instance methods</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Multiple-constructors" target="_blank">Multiple constructors</a>
+* <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Polymorphism" target="_blank">Polymorphism</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Processing-strings" target="_blank">Processing strings</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-Reading-files" target="_blank">Reading files</a>
 * <a href="https://github.com/Kamil-Jankowski/Learnig-JAVA/wiki/JetBrains-Academy:-The-for-loop" target="_blank">The for loop</a>
