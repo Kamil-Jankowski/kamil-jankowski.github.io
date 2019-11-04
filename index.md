@@ -3,6 +3,7 @@
 
 > Projects
 
+### <a href="" target="_blank">Simple Chatty Bot</a> (project repository)<br>
 ### <a href="https://github.com/Kamil-Jankowski/Tic-Tac-Toe" target="_blank">Tic-Tac-Toe</a> (project repository)<br>
 ### <a href="https://github.com/Kamil-Jankowski/Encryption-Decryption" target="_blank">Encryption-Decryption</a> (project repository)
 <br>
