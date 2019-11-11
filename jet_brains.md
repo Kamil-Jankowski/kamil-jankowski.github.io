@@ -29,3 +29,4 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-The-for-loop" target="_blank">The for loop</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-The-keyword-super" target="_blank">The keyword super</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-while-&-do-while" target="_blank">The while and do-while loops</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-toString()" target="_blank">toString()</a>
