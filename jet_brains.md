@@ -4,6 +4,7 @@
 ### JetBrains Academy: JAVA - _ongoing_:
 > wiki pages - _alphabetical_
 
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Abstract-class" target="_blank">Abstract class</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Arrays-as-parameters" target="_blank">Arrays as parameters</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Boxing-and-unboxing" target="_blank">Boxing and unboxing</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Branching-statements" target="_blank">Branching statements</a>
