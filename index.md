@@ -3,6 +3,7 @@
 
 > Projects
 
+### <a href="https://github.com/Kamil-Jankowski/Flashcards" target="_blank">Flashcards</a> (project repository)<br>
 ### <a href="https://github.com/Kamil-Jankowski/Coffee_Machine" target="_blank">Coffee Machine</a> (project repository)<br>
 ### <a href="https://github.com/Kamil-Jankowski/Simple-Chatty-Bot" target="_blank">Simple Chatty Bot</a> (project repository)<br>
 ### <a href="https://github.com/Kamil-Jankowski/Tic-Tac-Toe" target="_blank">Tic-Tac-Toe</a> (project repository)<br>
