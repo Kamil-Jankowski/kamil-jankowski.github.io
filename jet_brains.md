@@ -40,6 +40,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Reading-files" target="_blank">Reading files</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Runtime-type-checking" target="_blank">Runtime type checking</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Set" target="_blank">Set</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Standard-functional-interfaces" target="_blank">Standard functional interfaces</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Strategy" target="_blank">Strategy</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Switch-statement" target="_blank">Switch statement</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-The-Collections-Framework-overview" target="_blank">The Collections Framework overview</a>
