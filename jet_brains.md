@@ -61,3 +61,4 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-The-utility-class-Collections" target="_blank">The utility class Collections</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-while-&-do-while" target="_blank">The while and do-while loops</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-toString()" target="_blank">toString()</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Wildcards" target="_blank">Wildcards</a>
