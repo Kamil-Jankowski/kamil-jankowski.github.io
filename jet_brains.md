@@ -33,6 +33,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-hashCode()-and-equals()" target="_blank">hashCode() and equals()</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Hiding-and-overriding" target="_blank">Hiding and overriding</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Inheritance" target="_blank">Inheritance</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Insertion-sort-in-Java" target="_blank">Insertion sort in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Instance-methods" target="_blank">Instance methods</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Interfaces" target="_blank">Interfaces</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Iterating-over-arrays" target="_blank">Iterating over arrays</a>
