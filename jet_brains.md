@@ -44,6 +44,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Iterating-over-arrays" target="_blank">Iterating over arrays</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Iterator-and-Iterable" target="_blank">Iterator and Iterable</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Jump-search-in-Java" target="_blank">Jump search in Java</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Knuth-Morris-Pratt-algorithm-in-Java" target="_blank">Knuth-Morris-Pratt algorithm in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Linear-search-in-Java" target="_blank">Linear search in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-List" target="_blank">List</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Map" target="_blank">Map</a>
