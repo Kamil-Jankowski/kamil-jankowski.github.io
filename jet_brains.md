@@ -18,6 +18,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Counting-sort-in-Java" target="_blank">Counting sort in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Currying" target="_blank">Currying</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Defining-methods" target="_blank">Defining methods</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Dynamic-array-in-Java" target="_blank">Dynamic array in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Edit-distance-alignment-in-Java" target="_blank">Edit distance alignment in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Edit-distance-in-Java" target="_blank">Edit distance in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Encapsulating-object-creation" target="_blank">Encapsulating object creation</a>
