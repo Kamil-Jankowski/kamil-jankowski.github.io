@@ -8,6 +8,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Anonymous-classes" target="_blank">Anonymous classes</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-ArrayList" targe="_blank">ArrayList</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Arrays-as-parameters" target="_blank">Arrays as parameters</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Binary-heap-in-Java" target="_blank">Binary heap in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Binary-search-in-Java" target="_blank">Binary search in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Binary-search-tree-in-Java" target="_blank">Binary search tree in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Boxing-and-unboxing" target="_blank">Boxing and unboxing</a>
