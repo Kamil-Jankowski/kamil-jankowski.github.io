@@ -87,6 +87,7 @@
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-The-utility-class-Collections" target="_blank">The utility class Collections</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-while-&-do-while" target="_blank">The while and do-while loops</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Throwing-exceptions" target="_blank">Throwing exceptions</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Topological-sort-in-Java" target="_blank">Topological sort in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-toString()" target="_blank">toString()</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Trees-in-Java" target="_blank">Trees in Java</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Type-Erasure" target="_blank">Type Erasure</a>
