@@ -6,6 +6,7 @@
 
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Abstract-class" target="_blank">Abstract class</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Anonymous-classes" target="_blank">Anonymous classes</a>
+* <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Array-exceptions" target="_blank">Array exceptions</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-ArrayList" targe="_blank">ArrayList</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Arrays-as-parameters" target="_blank">Arrays as parameters</a>
 * <a href="https://github.com/Kamil-Jankowski/Learning-JAVA/wiki/JetBrains-Academy:-Binary-heap-in-Java" target="_blank">Binary heap in Java</a>
